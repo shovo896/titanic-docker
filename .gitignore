@@ -1,2 +1,6 @@
 /.qodo
 /.sixth
+titanic_model.pkl
+server_stdout.log
+server_stderr.log
+__pycache__/
